@@ -9,7 +9,8 @@ Download this zip archive or clone this repository (Git required) to your comput
 Then:
 
 1. `$ cd gulp-project-basis` - go inside the project directory;
-2. `$ npm install` - install dependencies.
+2. `$ npm install` - install dependencies;
+3. `$ npx gulp` - run the default task.
 
 ## Formatter
 
