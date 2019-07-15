@@ -1,3 +1,11 @@
+<a name="0.3.0"></a>
+
+# [0.3.0](https://github.com/ecmatonix/gulp-project-basis/compare/v0.2.0...v0.3.0) (2019-07-15)
+
+### Features
+
+- **package.json:** add the "start" script ([40d651e](https://github.com/ecmatonix/gulp-project-basis/commit/40d651e))
+
 <a name="0.2.0"></a>
 
 # [0.2.0](https://github.com/ecmatonix/gulp-project-basis/compare/v0.1.0...v0.2.0) (2019-07-15)
