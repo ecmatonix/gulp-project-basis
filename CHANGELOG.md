@@ -1,3 +1,11 @@
+<a name="0.4.0"></a>
+
+# [0.4.0](https://github.com/ecmatonix/gulp-project-basis/compare/v0.3.0...v0.4.0) (2019-07-15)
+
+### Features
+
+- **github-configs:** set theme jekyll-theme-cayman ([5fae6ef](https://github.com/ecmatonix/gulp-project-basis/commit/5fae6ef))
+
 <a name="0.3.0"></a>
 
 # [0.3.0](https://github.com/ecmatonix/gulp-project-basis/compare/v0.2.0...v0.3.0) (2019-07-15)
