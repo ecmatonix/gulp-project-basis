@@ -6,7 +6,7 @@
   "scripts": {
     "start": "gulp",
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && prettier --write CHANGELOG.md && git add CHANGELOG.md",
-    "format": "prettier --write \"**/*.{json,md}\"",
+    "format": "prettier --write \"**/*.{json,yml,md}\"",
     "format:check": "prettier --check \"**/*.{json,md}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
