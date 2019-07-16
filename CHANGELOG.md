@@ -1,3 +1,11 @@
+<a name="0.6.0"></a>
+
+# [0.6.0](https://github.com/ecmatonix/gulp-project-basis/compare/v0.5.0...v0.6.0) (2019-07-16)
+
+### Features
+
+- **package.json:** update the "format:check" script ([84dfcac](https://github.com/ecmatonix/gulp-project-basis/commit/84dfcac))
+
 <a name="0.5.0"></a>
 
 # [0.5.0](https://github.com/ecmatonix/gulp-project-basis/compare/v0.4.0...v0.5.0) (2019-07-16)
